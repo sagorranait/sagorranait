@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagorranait
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Reactjs and JavaScript
-- 💞️ I’m looking to collaborate on ReactJs
+- 🌱 I’m currently learning WP Plugin and JavaScript(ReactJs)
+- 💞️ I’m looking to collaborate on WP Plugin and ReactJs
 - 📫 How to reach me if you need then mail me (sagorranait@gmail.com)
 
 <!---
